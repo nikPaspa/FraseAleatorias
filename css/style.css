@@ -1,0 +1,44 @@
+body {
+    background: url('https://pic.chinesefontdesign.com/uploads/2017/03/chinesefontdesign.com_2017-03-20_17-52-49.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+  
+#fr {
+    font-family: 'Dancing Script', cursive;
+    padding-top: 20px;
+}
+
+.caixa-texto{
+    margin-top: 150px;
+}  
+
+  
+.button {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-top: 200px;
+}
+  
+.button:hover {
+    background-color: silver;
+}
+  
+.fraseEfeito {
+    padding-top: 30px;
+}
+  
+#frase {
+    font-family:  'Droid serif', serif;
+    font-style: oblique;
+}
+  
+.footer {
+   margin-top: 210px;
+}
